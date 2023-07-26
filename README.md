@@ -1,16 +1,17 @@
-### Hi there 👋
+Olá ! Sou a Tais 👋
 
-<!--
-**Taisluiza/Taisluiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hoje estou em busca de emprego como Dev Full Stack Junior
+- 🌱 Estou estudando Back-end e front-end em Java 
+- 👯 Busco colaborações em projetos de desenvolvimento Full Stack Java
+- 🤔 Estou procurando ajuda em desenvolver confiança em programação
+- 😄  Ela/Dela 
+- ⚡Fato sobre mim: Estou mudando de área profissional e a programação me acolheu
+--------------------------------------------------------------------------------------
+- 🔭 Hoy busco trabajo como Dev Full Stack Junior
+- 🌱 Estoy estudiando Back-end y front-end en Java
+- 👯 Buscando colaboraciones en proyectos de desarrollo Full Stack Java
+- 🤔 Busco ayuda para desarrollar confianza en la programación
+- 😄 Ella/Ella
+- ⚡Datos sobre mí: estoy cambiando de carrera y el programa me dio la bienvenida
 -->
