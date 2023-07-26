@@ -6,6 +6,7 @@ Olá ! Sou a Tais !
  🤔 Estou procurando ajuda em desenvolver confiança em programação
  😄  Ela/Dela 
  ⚡Fato sobre mim: Estou mudando de área profissional e a programação me acolheu
+<br>
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
