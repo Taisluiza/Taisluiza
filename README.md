@@ -1,3 +1,6 @@
+<img src="C:\Users\user\Downloads\Capa"/>
+
+
 Olá ! Sou a Tais !
 
  -🔭 Hoje estou em busca de emprego como Dev Full Stack Junior
