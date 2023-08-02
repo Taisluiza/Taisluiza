@@ -3,12 +3,12 @@
 
 Olá ! Sou a Tais !
 
- -🔭 Hoje estou em busca de emprego como Dev Full Stack Junior
- -🌱 Estou estudando Back-end e front-end em Java 
- -👯 Busco colaborações em projetos de desenvolvimento Full Stack Java
- -🤔 Estou procurando ajuda em desenvolver confiança em programação
- -😄  Ela/Dela 
- -⚡Fato sobre mim: Estou mudando de área profissional e a programação me acolheu
+ -🔭 Hoje estou em busca de emprego como Dev Full Stack Junior<br>
+ -🌱 Estou estudando Back-end e front-end em Java <br>
+ -👯 Busco colaborações em projetos de desenvolvimento Full Stack Java<br>
+ -🤔 Estou procurando ajuda em desenvolver confiança em programação<br>
+ -😄  Ela/Dela <br>
+ -⚡Fato sobre mim: Estou mudando de área profissional e a programação me acolheu<br>
 <br>
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
